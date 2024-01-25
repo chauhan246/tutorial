@@ -7,7 +7,7 @@ printf("Hello C \n");
 int a;
 int b;
 
-printf("Enter number: ");
+printf("Enter first number: ");
 scanf("%d", &a);
 
 printf("Enter number: ");
